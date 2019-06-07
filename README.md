@@ -4,8 +4,8 @@ CLI game
 
 Crazy Eight Game built in python 3.7.2 version
 
-Prerequisite : System must be installed with python
----------------------------------------------------
+Prerequisite : System must be installed with python 3.x version
+---------------------------------------------------------------
 
 Rules to interact with game :
 1.	You have to select card by typing card names with its rank (Exactly same name as card names).
