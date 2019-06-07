@@ -8,9 +8,9 @@ Prerequisite : System must be installed with python
 ---------------------------------------------------
 
 Rules to interact with game :
-1.	You can select card by typing card names with its rank (Exactly same name as card names).
+1.	You have to select card by typing card names with its rank (Exactly same name as card names).
 
-2.	You can draw by typing 'Y' or 'y'.
+2.	You can be draw by typing 'Y' or 'y'.
 
 |------------------------------|
 |  Give me feedback of any bug |
