@@ -1,0 +1,33 @@
+Crazy Eight
+-------------
+	Rules
+-------------
+Eazy is Play Crazy Eight Game in your Android Phone
+Download From Playstore -> Search -> Crazy Eight
+
+https://play.google.com/store/apps/details?id=com.clockwatchers.crazyeights
+
+Open game and do some changes
+
+go to Game Variations:
+----------------------
+check last 2 boxes;
+
+i.e
+check the box [] :[Take cards until a you have a valid play.]
+check the box [] :[Play new cars immediately after taking them.]
+
+
+And Then Play
+------------------------------------------------------------------------------------------
+
+Crazy Eight Game built in python 3.7.2 version
+
+prerequisite : System must be installed with python
+---------------------------------------------------
+
+Rules to interact with game :
+1.	You can select card by typing card names with its rank (Exactly same name as card names).
+
+2.	You can draw by typing 'Y' or 'y'.
+
