@@ -1,4 +1,4 @@
 # Crazy-Eight-Game-CLI
 CLI game
 
-Help me to fing bug
+Give me feedback of any bug
