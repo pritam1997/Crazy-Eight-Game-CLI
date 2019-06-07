@@ -4,7 +4,7 @@ CLI game
 
 Crazy Eight Game built in python 3.7.2 version
 
-prerequisite : System must be installed with python
+Prerequisite : System must be installed with python
 ---------------------------------------------------
 
 Rules to interact with game :
