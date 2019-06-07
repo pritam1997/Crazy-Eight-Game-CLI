@@ -21,3 +21,7 @@ check the box [] :[Play new cars immediately after taking them.]
 And Then Play
 ------------------------------------------------------------------------------------------
 
+Game Rules :
+
+1.	Number of Players is 2. (not less than 2 and not greater than 2)
+2.	Players to get rid of all your cards
